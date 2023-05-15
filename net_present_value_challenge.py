@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Student Activity: Financial Analysis using NPV.
+"""Financial Analysis using NPV.
 
 This script will choose the optimal project scenario to
 undertake based on max NPV values.
